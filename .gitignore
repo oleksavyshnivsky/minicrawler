@@ -1,0 +1,14 @@
+.DS_Store
+@eaDir/
+_mod/
+_devdata/
+files/**
+config/config.php
+config/db.php
+system/cookies/**
+system/log/dberror.log
+vendor/**
+test.txt
+!**/.keep
+composer.lock
+*.bat
